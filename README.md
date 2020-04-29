@@ -1,9 +1,12 @@
 # twitter_predict_using_NLTK_and_some_machine_learning
-This code mainly use NLTK and some machine learning skills to make a forecast,and mainly use for my own assignment.
+This code mainly use NLTK and some machine learning skills to make a forecast,
+and mainly use for my own assignment.
 
-There are two codes file, one is use word2vector and LDA to create the dictionary of coronavirous and do the sentiment analysis based on that.
+There are two codes file, one is use word2vector and LDA to create the dictionary of coronavirous 
+and do the sentiment analysis based on that.
 
-Another one is mainly using the machine learning tools to figure out the relationships between the sentiment & technical indicator with stock price
+Another one is mainly using the machine learning tools to figure out the relationships 
+between the sentiment & technical indicator with stock price
 
 The twitter code is scraped and only uploaded the clean version.
 
