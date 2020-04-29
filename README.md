@@ -9,4 +9,4 @@ If you have some questions, feel free to contact[email:brayntyin@163.com],[wecha
 
 金融研究生 assignment，主要研究最近推特上对单只股票的情绪以及市场的情绪，整合部分技术指标 用算法去预测 accumulate return. 比较各种算法的优缺点
 
-![image](https://github.com/daomingyin/twitter_predict_using_NLTK_and_some_machine_learning/blob/master/pic/stock.jpg)
+![image](1588201923050.jpg)
