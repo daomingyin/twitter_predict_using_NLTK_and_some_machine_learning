@@ -41,3 +41,4 @@ If you have some questions, feel free to contact[email:brayntyin@163.com],[wecha
 比较各种算法的优缺点
 
 ![image](1588201923050.jpg)
+![image](https://github.com/daomingyin/twitter_predict_using_NLTK_and_some_machine_learning/blob/master/result/1589166222825.jpg)
