@@ -1,12 +1,12 @@
 # twitter_predict_using_NLTK_and_some_machine_learning
 
-In our project, we built up a prediction model that bags eight machine learning algorithms to perform technical analysis on the stock price on Zoom. 
+In the project, I built up a prediction model that bags eight machine learning algorithms to perform technical analysis on the stock price on Zoom. 
 
-In our model, we used seven technical analysis indicators, as well as two sentimental indicators, as our explainable variables. 
+I used seven technical analysis indicators, as well as two sentimental indicators, as the explainable variables. 
 
 For each day, each of the eight machine learning algorithms will produce a trading signal (1 for buy and -1 for sell) to vote for the decision.
 
-We performed back test on Zoom’s stock price from Jan 1 st to Apr 24th , 2020 and compared the prediction capability of our model with pure momentum. We found higher cumulative return achieved in our model against pure momentum.
+I performed back test on Zoom’s stock price from Jan 1 st to Apr 24th , 2020 and compared the prediction capability of our model with pure momentum. We found higher cumulative return achieved in our model against pure momentum.
 
 This code mainly use NLTK and some machine learning skills to make a forecast,
 and mainly use for my own assignment.
